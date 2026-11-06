@@ -153,7 +153,7 @@ timeline
          : First apps with Flutter, Java and JavaScript
     2024 : TypeScript becomes home base
          : Built my own website and first web apps
-    2025 : Started studying Computer Science
+    2025 : Started studying Cybersecurity
          : Real-time multiplayer with WebSockets
          : 3D globes with Cesium and my first npm package
     2026 : devlog-ui ships to npm
